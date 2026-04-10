@@ -2,7 +2,7 @@
 
 // Replace with your bot token and webhook URL
 $botToken = 'YOURTGBOT';
-$webhookUrl = 'https://khilaadixpro.shop/corefilesinstance/telegram-events/bot.php';
+$webhookUrl = 'https://cyberexpert-ai.github.io/RoyalPay.github.io/corefilesinstance/telegram-events/bot.php';
 
 $telegramApiUrl = "https://api.telegram.org/bot{$botToken}/setWebhook?url={$webhookUrl}";
 
