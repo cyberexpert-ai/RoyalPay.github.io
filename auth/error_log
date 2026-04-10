@@ -1,0 +1,20 @@
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Notice:  Undefined variable: key in /home/jwyvwind/public_html/phnpe/index.php on line 9
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Warning:  Use of undefined constant GET - assumed 'GET' (this will throw an Error in a future version of PHP) in /home/jwyvwind/public_html/phnpe/cheksum.php on line 30
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/jwyvwind/public_html/phnpe/cheksum.php on line 11
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Warning:  Use of undefined constant CURLOPT_GETFIELDS - assumed 'CURLOPT_GETFIELDS' (this will throw an Error in a future version of PHP) in /home/jwyvwind/public_html/phnpe/cheksum.php on line 12
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/jwyvwind/public_html/phnpe/cheksum.php on line 12
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Warning:  Use of undefined constant POST - assumed 'POST' (this will throw an Error in a future version of PHP) in /home/jwyvwind/public_html/phnpe/index.php on line 122
+[16-Jul-2024 10:50:51 Asia/Kolkata] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/jwyvwind/public_html/phnpe/index.php on line 90
